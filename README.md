@@ -4,11 +4,11 @@ Midterm
 * This repository covers field test of midterm exam.
 
 
-##TODO
+## TODO
 
 
-*[] Add introductory text file about myself
+* [ ] Add introductory text file about myself
 
-*[] Write some wiki page about this repository 
+* [ ] Write some wiki page about this repository 
 
-*[] Open, refer, close issues, milestones and projects 
+* [ ] Open, refer, close issues, milestones and projects 
